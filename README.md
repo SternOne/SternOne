@@ -1,16 +1,17 @@
-### Zach Stern
+I'm Zach Stern. I work with contracts. I'm building projects around contracts, writing, games and the practical problems I run into with AI tools.
 
-I build tools for work that takes judgment: a contract-review workstation that keeps a document and its context together, methods that make AI agents investigate and verify instead of assert, and interfaces that keep creative and technical choices visible.
+AI tools write the code. I decide what each project is for and check what comes back.
 
-[**See the selected work →**](https://zms-labs.github.io/showcase/) · [About what I build and how](https://zms-labs.github.io/showcase/about.html) · [ZMS Labs](https://github.com/ZMS-Labs)
+Now (September 2026):
 
-<!-- [OPERATOR: replace the line above the links with your own one-liner — a memory,
-     an opinion, or a number only you would write. Also consider adding: what you
-     are looking for (roles/collaboration), and a 'now' line with a date.
-     Everything below is factual and public; edit freely.] -->
+- [Steno](https://zms-labs.github.io/showcase/case-studies/steno/), a contract workstation
+- [SaveBench](https://zms-labs.github.io/showcase/case-studies/savebench/), where AI models design factories in the game Satisfactory, and the game measures what they produce
+- [Epistemic Skills](https://zms-labs.github.io/showcase/case-studies/epistemic-skills/), written methods for AI agents (AI tools that carry out a multi-step task on their own), with [public source](https://github.com/ZMS-Labs/epistemic-skills)
 
-Current focus: Steno (legal workflows), Fleet Orchestrator (agent coordination),
-and the Epistemic Skills package ([source](https://github.com/ZMS-Labs/epistemic-skills)).
+I want SaveBench's factories to follow the game's own rules, because it stops being surprising and delightful if it's just a fake factory.
 
-<!-- [OPERATOR: the line above is assembled from public project pages; make it
-     yours.] -->
+These are personal projects. Each case study says what's been tested so far.
+
+[See the case studies](https://zms-labs.github.io/showcase/) · [How I work with AI tools](https://zms-labs.github.io/showcase/about.html#how-i-work) · [ZMS Labs on GitHub](https://github.com/ZMS-Labs)
+
+Questions and conversations are welcome through [my GitHub profile](https://github.com/SternOne).
